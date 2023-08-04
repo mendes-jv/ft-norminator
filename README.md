@@ -29,8 +29,8 @@ After cloning the repository, you can now use the script passing it as an argume
 You can also create an alias for the script by placing the following line in your configuration file: (eg .zshrc) // :brazil: Você também pode  criar um alias para o script colocando a seguinte linha no seu arquivo de configuração: (ex: .zshrc)
 
 ```zsh
-alias norminator = ~/ft-norminator/ft-norminator.sh
+alias norminator=~/ft-norminator/ft-norminator.sh
 ```
 ```zsh
-alias norminator = ~/ft-norminator/ft-norminator_br.sh
+alias norminator=~/ft-norminator/ft-norminator_br.sh
 ```
